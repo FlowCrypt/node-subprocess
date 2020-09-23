@@ -23,6 +23,6 @@
     "@types/node": "^10.12.0",
     "@types/node-cleanup": "^2.1.0",
     "tslint": "^5.11.0",
-    "typescript": "^3.0.1"
+    "typescript": "^4.0.3"
   }
 }
